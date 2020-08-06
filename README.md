@@ -2,6 +2,8 @@
 
 ###### tags: `AnimateCC`, `HTML5 Canvas`
 
+https://hackmd.io/oHi5u1g1TzO4A0KhXY1sRA
+
 Chào các bạn, hôm nay chúng ta sẽ cùng học cách làm game chém hoa quả - ninja fruit trên Animate CC nhé!
 
 Game chém hoa quả là một game khá phổ biến từng có thời gian gây bão khi điện thoại thông minh với màn hình touchscreen lớn ra đời.
